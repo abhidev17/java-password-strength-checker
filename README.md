@@ -62,7 +62,7 @@ The password strength is calculated based on:
 
 Maximum Score: **100**
 
----
+---------
 
 ## 🚀 How to Run
 
