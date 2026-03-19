@@ -33,7 +33,7 @@ The application includes:
 - Security suggestions
 - Generate / Copy / Clear buttons
 
----
+-------
 
 ## ⚙️ Technologies Used
 
